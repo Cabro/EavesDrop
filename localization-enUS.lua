@@ -3,6 +3,7 @@ local L = AceLibrary("AceLocale-2.2"):new("EavesDrop")
 L:RegisterTranslations("enUS", function()
     return {
     		--main
+		["EavesDrop Options"] = true,
         ["DownTip"] = "Click to scroll down. Shift+click to scroll to bottom",
         ["UpTip"] = "Click to scroll up. Shift+click to scroll to top",
         ["TabTip"] = "Left Click to drag frame. Right Click to view options.",
