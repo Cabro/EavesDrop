@@ -3,7 +3,7 @@
 ## Title: EavesDrop |cff7fff7f -Ace2-|r
 ## Notes: A simple combat log that displays events similar to SCT
 ## Notes-ruRU: Простой журнал боевых действий, в котором отображаются события, похожие на SCT
-## Version: 1.4.1
+## Version: 1.4.2
 ## Author: Grayhoof, Cabro, laytya
 ## SavedVariables: EavesDropDB
 ## SavedVariablesPerCharacter: EavesDropStatsDB
