@@ -304,6 +304,7 @@ function EavesDrop:CombatEvent(info)
 		texture = BS:GetSpellIcon(info.skill);
 		if (texture == nil and self.db.profile["PLACEHOLDER"] == true) then 
 			texture = "Interface\\Icons\\INV_Misc_QuestionMark"
+			print("|cffFF0066Eavesdrop: [|cffFFFF00"..info.skill.."|cffFF0066]") --self debug
 		end
 	end
 	if info.type == "hit" then
